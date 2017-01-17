@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
  * Created by cov-127 on 17/1/17.
  */
 @Service
-public class MyRunner implements CommandLineRunner{
+public class AppRunner implements CommandLineRunner{
     @Value("${dataFilePath:src/main/resources/data.txt}")
     private String dataFilePath;
 
