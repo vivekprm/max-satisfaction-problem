@@ -12,7 +12,8 @@ import static junit.framework.TestCase.assertTrue;
 import static org.junit.Assert.assertEquals;
 
 /**
- * Created by cov-127 on 17/1/17.
+ * Test Suite to run all the tests.
+ * Created by vivek mishra on 17/1/17.
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest
